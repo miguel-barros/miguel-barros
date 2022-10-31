@@ -2,7 +2,8 @@
 
 ### Hello world
 <p align="left"> 
-  Olá mundo, sou conhecido virtualmente como <strong>Last</strong>, porem fora das redes me chamo <strong>Miguel</strong> opte por chamar como preferir^^
+  Olá mundo, sou conhecido virtualmente como <strong>Last</strong>, porem fora das redes me chamo <strong>Miguel</strong>,
+  opte por chamar como preferir^^
   </br>
   Eu sou fascinado por programação dês que eu tinha <strong>8 Anos</strong>, quando vi pela primeira vez 
   um filme que falava sobre <strong>Hacking</strong>, esse universo de possibilidades infinitas me faz refletir muito
