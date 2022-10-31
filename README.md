@@ -51,12 +51,11 @@ Ainda não tive oportunidade de ter uma experiência profissional como programad
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-barros&show_icons=true&theme=dracula&line_height=27" alt="**Miguel Barros** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-barros&show_icons=true&theme=dracula&line_height=27" alt="**Last** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[website]: https://eulast.vercel.app/
+[twitter]: https://twitter.com/yLastx
+[instagram]: https://www.instagram.com/eu.last/
+[linkedin]: https://www.linkedin.com/in/miguelbarrosdev/
 <br>
