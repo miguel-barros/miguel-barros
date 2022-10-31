@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Next JS</strong>, <strong>Python</strong>, <strong>Ruby On Rails</strong>, <strong>SASS</strong>, <strong>Firebase</strong>
+  🦄 Linguagens: <strong>Next JS</strong>, <strong>Python</strong>, <strong>Ruby On Rails</strong>, <strong>SASS</strong>, <strong>Firebase</strong>.
 </p>
 
 <p align="left">
