@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Areas: <strong>Front-end</strong>, <strong>Back-end</strong>, <strong>UX Design</strong>.
 </p>
 
 <p align="left">
