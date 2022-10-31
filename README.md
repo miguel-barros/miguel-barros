@@ -46,11 +46,11 @@ Ainda não tive oportunidade de ter uma experiência profissional como programad
 
 <hr/>
 
-<a href="https://github.com/miguel-barros">
+<a href="https://eulast.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-barros&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/miguel-barros">
+<a href="https://eulast.vercel.app/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-barros&show_icons=true&theme=dracula&line_height=27" alt="**Last** github stats"/>
 </a>
 
