@@ -42,7 +42,7 @@
 
 ### Experiência de trabalho
 
-<h1>Em busca da primeira experiencia profissional como programador.</h1>
+Em busca da primeira experiencia profissional como programador.
 
 <hr/>
 
