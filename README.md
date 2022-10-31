@@ -42,7 +42,7 @@
 
 ### Experiência de trabalho
 
-Em busca da primeira experiencia profissional como programador.
+Ainda não tive oportunidade de ter uma experiência profissional como programador, mas sei que posso ser um elo bem forte nessa busca por grandes objetivos.
 
 <hr/>
 
