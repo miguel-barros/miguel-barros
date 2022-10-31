@@ -3,7 +3,8 @@
 ### Hello world
 <p align="left"> 
   Olá mundo, sou mais conhecido como <strong>Last</strong>, mas meu verdadeiro nome é <strong>Miguel</strong> me chame como preferir.
-  dês que me conheço por gente sou fascinado por programação, esse universo de possibilidades infinitas me faz refletir muito
+  </br>
+  Dês que me conheço por gente sou fascinado por programação, esse universo de possibilidades infinitas me faz refletir muito
   donde nós humanos podemos chegar, e eu quero de alguma forma fazer parte disso.
   Atualmente sou estudande da <strong>ETEC Adolpho Berezin</strong> cursando <strong>Desenvolvimento de Sistemas</strong>, e assim
   que eu me formar, almejo ser o melhor programdor que alguém possa imaginar
