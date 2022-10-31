@@ -42,16 +42,16 @@
 
 ### Experiência de trabalho
 
-Ainda não tive oportunidade de ter uma experiência profissional como programador, mas sei que posso ser um elo bem forte nessa busca por grandes objetivos.
+Ainda não tive oportunidade de ter uma experiência profissional como programador, todavia tenho certeza que posso ser um elo bem forte nessa busca por grandes objetivos.
 
 <hr/>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-barros&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-barros&show_icons=true&theme=dracula&line_height=27" alt="**Miguel Barros** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
