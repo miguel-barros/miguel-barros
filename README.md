@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💼 Areas: <strong>Front-end</strong>, <strong>Back-end</strong>, <strong>UX Design</strong>.
+  💼 Áreas: <strong>Front-end</strong>, <strong>Back-end</strong>, <strong>UX Design</strong>.
 </p>
 
 <p align="left">
