@@ -2,7 +2,7 @@
 
 ### Hello world
 <p align="left"> 
-  Olá mundo, sou mais conhecido como <strong>Last</strong>, mas meu verdadeiro nome é <strong>Miguel</strong> me chame como preferir.
+  Olá mundo, sou mais conhecido como <strong>Last</strong>, mas meu verdadeiro nome é <strong>Miguel</strong> me chame como preferir^^
   </br>
   Dês que me conheço por gente sou fascinado por programação, esse universo de possibilidades infinitas me faz refletir muito
   donde nós humanos podemos chegar, e eu quero de alguma forma fazer parte disso.
