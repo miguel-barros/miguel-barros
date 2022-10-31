@@ -7,6 +7,7 @@
   Eu sou fascinado por programação dês que eu tinha <strong>8 Anos</strong>, quando vi pela primeira vez 
   um filme que falava sobre <strong>Hacking</strong>, esse universo de possibilidades infinitas me faz refletir muito
   donde nós humanos podemos chegar, e eu quero de alguma forma fazer parte disso.
+  </br>
   Atualmente sou estudande da <strong>ETEC Adolpho Berezin</strong> cursando <strong>Desenvolvimento de Sistemas</strong>, e assim
   que eu me formar, almejo ser o melhor programdor que alguém possa imaginar
 </p>
