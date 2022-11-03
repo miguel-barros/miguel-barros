@@ -10,8 +10,9 @@
   donde nós humanos podemos chegar, e eu quero de alguma forma fazer parte disso.
   </br>
   Atualmente sou estudande da <strong>ETEC Adolpho Berezin</strong> cursando <strong>Desenvolvimento de Sistemas</strong>, e assim
-  que eu me formar, almejo ser o melhor programdor que alguém possa imaginar
-</p>
+  que eu me formar, almejo me tornar um especialista em <strong>SI</strong> e <strong>Web Design</strong>,
+  sempre buscando me destacar dos demais.
+  </p>
 
 <p align="left">
   🦄 Linguagens: <strong>Next JS</strong>, <strong>Python</strong>, <strong>Ruby On Rails</strong>, <strong>SASS</strong>, <strong>Firebase</strong>.
