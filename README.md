@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://img.freepik.com/free-vector/design-inspiration-concept-illustration_114360-3992.jpg?w=826&t=st=1667476369~exp=1667476969~hmac=d822e71b0a8a015b085c6d29c0536d5d244cb0e2955ea8fcd261c002773afbb0" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Hello world
 <p align="left"> 
