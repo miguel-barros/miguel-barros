@@ -10,7 +10,7 @@
   donde nós humanos podemos chegar, e eu quero de alguma forma fazer parte disso.
   </br>
   Atualmente sou estudande da <strong>ETEC Adolpho Berezin</strong> cursando <strong>Desenvolvimento de Sistemas</strong>, e assim
-  que eu me formar, almejo me tornar um especialista em <strong>SI</strong> e <strong>Web Design</strong>,
+  que eu me formar, almejo me tornar um especialista em <strong>SI</strong> e <strong>Web development</strong>,
   sempre buscando me destacar dos demais.
   </p>
 
