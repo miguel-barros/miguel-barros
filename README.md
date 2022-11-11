@@ -36,7 +36,7 @@
 
 <hr/>
 
-### Experiência de trabalho
+### Habilidades
 
 <a href="https://eulast.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-barros&theme=dracula&hide_langs_below=1" />
