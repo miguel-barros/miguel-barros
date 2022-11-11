@@ -38,10 +38,6 @@
 
 ### Experiência de trabalho
 
-Ainda não tive oportunidade de ter uma experiência profissional como programador, todavia tenho certeza que posso ser um elo bem forte nessa busca por grandes objetivos.
-
-<hr/>
-
 <a href="https://eulast.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-barros&theme=dracula&hide_langs_below=1" />
 </a>
