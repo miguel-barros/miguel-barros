@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💼 Stacks: <strong>Front-end</strong>, <strong>Back-end</strong>, <strong>UX Design</strong>.
+  💼 Stacks: <strong>Front-end</strong>, <strong>Back-end</strong> e <strong>UX Design</strong>.
 </p>
 
 <p align="left">
