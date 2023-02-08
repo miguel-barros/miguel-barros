@@ -2,7 +2,7 @@
 
 ### Hello world
 <p align="left"> 
-  Olá mundo, sou conhecido virtualmente como Last, mas meu nome verdadeiro é Miguel. Sinta-se à vontade para me chamar como preferir.
+  Olá mundo, sou conhecido virtualmente como <strong>Last</strong>, mas meu nome verdadeiro é <strong>Miguel</strong>. Sinta-se à vontade para me chamar como preferir.<br>
 Desde que vi um filme sobre cibersegurança aos 10 anos, fiquei fascinado pela programação. Este universo de possibilidades infinitas me inspira a refletir sobre o potencial da humanidade e eu quero ser parte disso. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas na Universidade Católica de Santos e, assim que me formar, ambiciono tornar-me um especialista em Sistemas de Informação e Web Development, sempre procurando me destacar.
 </p>
 
