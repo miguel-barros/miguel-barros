@@ -2,17 +2,9 @@
 
 ### Hello world
 <p align="left"> 
-  Olá mundo, sou conhecido virtualmente como <strong>Last</strong>, porem fora das redes me chamo <strong>Miguel</strong>,
-  opte por chamar como preferir^^
-  </br>
-  Eu sou fascinado por programação dês que eu tinha <strong>10 Anos</strong>, quando vi pela primeira vez 
-  um filme que falava sobre <strong>Cibersegurança</strong>, esse universo de possibilidades infinitas me faz refletir muito
-  donde nós humanos podemos chegar, e eu quero de alguma forma fazer parte disso.
-  </br>
-  Atualmente sou estudande da <strong>ETEC Adolpho Berezin</strong> cursando <strong>Desenvolvimento de Sistemas</strong>, e assim
-  que eu me formar, almejo me tornar um especialista em <strong>SI</strong> e <strong>Web development</strong>,
-  sempre buscando me destacar dos demais.
-  </p>
+  Olá mundo, sou conhecido virtualmente como Last, mas meu nome verdadeiro é Miguel. Sinta-se à vontade para me chamar como preferir.
+Desde que vi um filme sobre cibersegurança aos 10 anos, fiquei fascinado pela programação. Este universo de possibilidades infinitas me inspira a refletir sobre o potencial da humanidade e eu quero ser parte disso. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas na Universidade Católica de Santos e, assim que me formar, ambiciono tornar-me um especialista em Sistemas de Informação e Web Development, sempre procurando me destacar.
+</p>
 
 <p align="left">
   🦄 Linguagens: <strong>Next JS</strong>, <strong>Python</strong>, <strong>SASS</strong>, <strong>Firebase</strong>.
