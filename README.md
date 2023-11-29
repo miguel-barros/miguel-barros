@@ -7,7 +7,7 @@ Desde que vi um filme sobre cibersegurança aos 10 anos, fiquei fascinado pela p
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Next JS</strong>, <strong>Nest JS</strong>, <strong>SASS</strong>, <strong>Tailwind</strong>, <strong>Firebase</strong>.
+  🦄 Linguagens: <strong>Next JS</strong>, <strong>Nest JS</strong>, <strong>SASS</strong>, <strong>Tailwind</strong>, <strong>Docker</strong>.
 </p>
 
 <p align="left">
